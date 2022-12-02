@@ -50,3 +50,40 @@
 
     font-family: 'Times New Roman', Times, serif;
 }
+
+
+.dinner {
+
+    font-size: 300%;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    text-align: center;
+
+    background-color: bisque;
+
+}
+
+.Lunch {
+
+    font-size: 300%;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    text-align: center;
+
+    background-color: bisque;
+
+}
+
+.Breakfest {
+    
+    font-size: 300%;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    text-align: center;
+
+    background-color: bisque;
+
+}
